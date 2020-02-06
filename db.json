@@ -1,3 +1,11 @@
 {
- "words" : ["test1", "test2", "test3", "test4"]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
